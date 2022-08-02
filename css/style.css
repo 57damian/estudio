@@ -1,0 +1,50 @@
+.tamLogo{
+    width: 80px;
+}
+
+.ancla{
+    font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.whatsapp{
+    width: 3%;
+    
+   
+}
+
+.instagram{
+    width: 3%;
+    
+    
+}
+
+footer{
+    margin: 2%;
+    padding: 2%;
+}
+
+.servicios{
+    font-size: 4rem;
+    font-weight: bold;
+    
+}
+
+
+
+.titDerecho{
+    margin: 5%;
+    
+    
+}
+
+.insta{
+    color: black;
+    text-decoration: none;
+    
+}
+
+h2{
+    margin: 2%;
+}
